@@ -20,6 +20,8 @@ function criarCobrinha(){
       }
 }
 
+document.addEventListener('keydown', update);
+
 function iniciarJogo(){
       criarBG();
       criarCobrinha();
