@@ -20,7 +20,6 @@ function criarCobrinha(){
       }
 }
 
-function drawFood
 
 document.addEventListener('keydown', update);
 
