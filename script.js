@@ -8,7 +8,8 @@ snake[0] = {
 }
 let directon = "right";
 let food = {
-      
+      x: Math.floor()
+      y: 
 }
 
 function criarBG() {
